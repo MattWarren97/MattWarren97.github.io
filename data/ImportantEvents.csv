@@ -1,0 +1,17 @@
+Year,Event,ID
+1865,"Gregor Mendel: the 'father of genetics' releases his work on pea plants. It goes almost entirely unnoticed.",0
+1897,"Bateson and Punnett begin work on hybrid experiments in the sweet pea, unaware of Mendel's work.",1
+1900,"Advances in cellular biology lead to three scientists rediscovering Mendel's laws, and now recognising his work.",0
+1906,"Bateson and Punnett discover non-Mendelian inheritance: Genetic Linkage in the sweet pea.",1
+1911,"Thomas Hunt Morgan writes in Nature on the hypothesis of the Chromosome to explain patterns in the inheritance of traits.",2
+1913,"Alfred Sturtevant, pupil of Thomas Hunt Morgan, creates the first Genetic Linkage Map - for the Fruit Fly: Drosophilia Melanogaster",3
+1930,"A cell biologist, Dontcho Kostoff, shows evidence of the necessity of a structure like the chromosome.",4
+1933,"Thomas Hunt Morgan is awarded the Nobel Prize. In his acceptance speech he downplays the potential for genetics to contribute towards medicine, despite rising expectation of radical advances.", 2
+1940,"Punnett concludes his work on the sweet pea (Lathyrus Odoratus); this was the primary source for our data.",1
+1972,"The first time a (virus) gene was fully sequenced: We enter the genomics era.", 5
+1984,"For the first time, a human disease - Huntington's Chorea - is physically located within the human genome, finally opening pathways towards genetic medical treatment.",2
+1990,"Launch of the Human Genome Project, aiming for physical and functional mapping of every gene on the human genome.",6
+1996,"The Human Gene Mutation Database is first made publically available: Seeking to curate a comprehensive list all genetic mutations that cause disease in humans. Genetic linkage is a key propeller for this.",2
+1997,"Dolly the sheep is cloned, a first of its kind - with worldwide media attention.",8
+2003,"The Human Genome Project concludes successfully, with 92% of the human genome mapped.",6
+2015,"CRISPR-Cas9 introduced to the world. A technique that allows rewriting of entire sequences in the genome - the chance to play God over genetic material, to redesign living beings as well as embryos. Unparalleled opportunities, but also unparalleled ethical questions: the second true linkage in genetics",9
